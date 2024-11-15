@@ -42,4 +42,4 @@ The test cases cover the following scenarios:
 6. Executing multiple orders (both executed)
 
 ## Conclusion
-The `TakeProfitsHook` contract provides a robust and flexible take-profit mechanism for the Uniswap V4 protocol. By allowing users to place and execute take-profit orders, the contract enhances the trading experience and provides an additional tool for managing their positions.
+The `TakeProfitsHook` contract provides a take-profit mechanism for the Uniswap V4 protocol. By allowing users to place and execute take-profit orders, the contract enhances the trading experience and provides an additional tool for managing their positions.
